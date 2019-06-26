@@ -1,4 +1,4 @@
-//: [Previous](@previous)
+//: [Palindrome](@previous)
 /*:
  # Thursday Stretch Problem 5.4
  ## Greatest Common Divisor

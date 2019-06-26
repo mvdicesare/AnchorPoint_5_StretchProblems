@@ -20,4 +20,4 @@ import Foundation
 
 
 
-//: [Next](@next)
+//: [Longest Word](@next)

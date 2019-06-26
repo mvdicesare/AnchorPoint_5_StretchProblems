@@ -1,4 +1,4 @@
-//: [Previous](@previous)
+//: [Longest Word](@previous)
 /*:
  # Wednesday Stretch Problem 5.3
  ## Palindrome
@@ -23,4 +23,4 @@ import Foundation
 
 
 
-//: [Next](@next)
+//: [Greatest Common Divisor](@next)
