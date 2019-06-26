@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='5.1 - Hashtags'/>
+        <page name='5.2 - Longest Word'/>
+        <page name='5.3 - Palindrome'/>
+        <page name='5.4 Greatest Common Divisor'/>
+    </pages>
+</playground>
